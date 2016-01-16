@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MegaCoder</string>
+
+    <string name="welcome_string">Welcome to the Megacoder!</string>
+    <string name="plain_text">Plain text</string>
+    <string name="coded_text">Coded text</string>
+    <string name="MEGACODE">MEGACODE</string>
+    <string name="DE_MEGACODE">DE-MEGACODE</string>
+    <string name="action_settings">Settings</string>
+</resources>
